@@ -1,0 +1,2194 @@
+fileFormatVersion: 2
+guid: 389ef6e065d9e9b4e8c447da3cbdf57c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5219229994249982076
+    second: Snolax Idle_0
+  - first:
+      213: -5153697426090582454
+    second: Snolax Idle_1
+  - first:
+      213: -5399003950150504056
+    second: Snolax Idle_2
+  - first:
+      213: -7952912966913461118
+    second: Snolax Idle_3
+  - first:
+      213: -5927594082451765888
+    second: Snolax Idle_4
+  - first:
+      213: -2911163594665165411
+    second: Snolax Idle_5
+  - first:
+      213: 2666749652089800520
+    second: Snolax Idle_6
+  - first:
+      213: 4146606675054467219
+    second: Snolax Idle_7
+  - first:
+      213: -595154171819033406
+    second: Snolax Idle_8
+  - first:
+      213: -9184519494963349602
+    second: Snolax Idle_9
+  - first:
+      213: -2783210097236388947
+    second: Snolax Idle_10
+  - first:
+      213: 4623874282363591552
+    second: Snolax Idle_11
+  - first:
+      213: -2397786357214874895
+    second: Snolax Idle_12
+  - first:
+      213: 5753291901910137862
+    second: Snolax Idle_13
+  - first:
+      213: 578296701988288358
+    second: Snolax Idle_14
+  - first:
+      213: 8098439911693592110
+    second: Snolax Idle_15
+  - first:
+      213: 2811147537513297880
+    second: Snolax Idle_16
+  - first:
+      213: 1573448129242904524
+    second: Snolax Idle_17
+  - first:
+      213: 6892621024477249190
+    second: Snolax Idle_18
+  - first:
+      213: 5439132505399429840
+    second: Snolax Idle_19
+  - first:
+      213: 2169806017482800557
+    second: Snolax Idle_20
+  - first:
+      213: -7159658699346399952
+    second: Snolax Idle_21
+  - first:
+      213: 2564460553887486914
+    second: Snolax Idle_22
+  - first:
+      213: -7123493288174489635
+    second: Snolax Idle_23
+  - first:
+      213: 8396956703776148946
+    second: Snolax Idle_24
+  - first:
+      213: -7272859216821746688
+    second: Snolax Idle_25
+  - first:
+      213: -8086743008150207892
+    second: Snolax Idle_26
+  - first:
+      213: -3093520814202740761
+    second: Snolax Idle_27
+  - first:
+      213: -2857148421418760822
+    second: Snolax Idle_28
+  - first:
+      213: -2991415262552235555
+    second: Snolax Idle_29
+  - first:
+      213: -5389855596171531869
+    second: Snolax Idle_30
+  - first:
+      213: 5686109632735487084
+    second: Snolax Idle_31
+  - first:
+      213: 5074381200489508432
+    second: Snolax Idle_32
+  - first:
+      213: 8033913562712662782
+    second: Snolax Idle_33
+  - first:
+      213: 544674738478648535
+    second: Snolax Idle_34
+  - first:
+      213: -9193004717191466622
+    second: Snolax Idle_35
+  - first:
+      213: 1061097209216542990
+    second: Snolax Idle_36
+  - first:
+      213: -1423914518413393142
+    second: Snolax Idle_37
+  - first:
+      213: 277877213677438562
+    second: Snolax Idle_38
+  - first:
+      213: -883011624807500226
+    second: Snolax Idle_39
+  - first:
+      213: -6977093060143681665
+    second: Snolax Idle_40
+  - first:
+      213: 7484986919658235736
+    second: Snolax Idle_41
+  - first:
+      213: 2410988521878997861
+    second: Snolax Idle_42
+  - first:
+      213: -3063998210874820275
+    second: Snolax Idle_43
+  - first:
+      213: 3819882460822407665
+    second: Snolax Idle_44
+  - first:
+      213: 1760567424647313875
+    second: Snolax Idle_45
+  - first:
+      213: 6802125345660659901
+    second: Snolax Idle_46
+  - first:
+      213: 4230134937892877738
+    second: Snolax Idle_47
+  - first:
+      213: 4235616588064718449
+    second: Snolax Idle_48
+  - first:
+      213: 7895910830701375443
+    second: Snolax Idle_49
+  - first:
+      213: -2472536777396546864
+    second: Snolax Idle_50
+  - first:
+      213: -6185778545496564002
+    second: Snolax Idle_51
+  - first:
+      213: -6864812556517484440
+    second: Snolax Idle_52
+  - first:
+      213: 7301202776925576850
+    second: Snolax Idle_53
+  - first:
+      213: -8152305165479543795
+    second: Snolax Idle_54
+  - first:
+      213: -5640369741113987472
+    second: Snolax Idle_55
+  - first:
+      213: -3419266183911683062
+    second: Snolax Idle_56
+  - first:
+      213: -246982642083766491
+    second: Snolax Idle_57
+  - first:
+      213: 4033372425948759719
+    second: Snolax Idle_58
+  - first:
+      213: 4100769660276641935
+    second: Snolax Idle_59
+  - first:
+      213: -1588749931975191843
+    second: Snolax Idle_60
+  - first:
+      213: -8563976009793360971
+    second: Snolax Idle_61
+  - first:
+      213: 2960722862407931359
+    second: Snolax Idle_62
+  - first:
+      213: -2444203726417308366
+    second: Snolax Idle_63
+  - first:
+      213: 4500527370652090502
+    second: Snolax Idle_64
+  - first:
+      213: -7874580222130394416
+    second: Snolax Idle_65
+  - first:
+      213: -7628116252149964876
+    second: Snolax Idle_66
+  - first:
+      213: 46226996225283077
+    second: Snolax Idle_67
+  - first:
+      213: -1055576373098875795
+    second: Snolax Idle_68
+  - first:
+      213: -1593535096456209707
+    second: Snolax Idle_69
+  - first:
+      213: -1658511043210079687
+    second: Snolax Idle_70
+  - first:
+      213: -4152907613867194400
+    second: Snolax Idle_71
+  - first:
+      213: -917669116790646936
+    second: Snolax Idle_72
+  - first:
+      213: -7915596025648517906
+    second: Snolax Idle_73
+  - first:
+      213: -8202916513724940570
+    second: Snolax Idle_74
+  - first:
+      213: 3139380027359181926
+    second: Snolax Idle_75
+  - first:
+      213: 8537712420593385563
+    second: Snolax Idle_76
+  - first:
+      213: -1585061560076157096
+    second: Snolax Idle_77
+  - first:
+      213: 1798032281460673510
+    second: Snolax Idle_78
+  - first:
+      213: 7261552195383892679
+    second: Snolax Idle_79
+  - first:
+      213: 7694467499193458529
+    second: Snolax Idle_80
+  - first:
+      213: -682057535149999590
+    second: Snolax Idle_81
+  - first:
+      213: -6368103776869924713
+    second: Snolax Idle_82
+  - first:
+      213: 6677124270840405392
+    second: Snolax Idle_83
+  - first:
+      213: -1299048426622728086
+    second: Snolax Idle_84
+  - first:
+      213: 1144230123264727851
+    second: Snolax Idle_85
+  - first:
+      213: 5975227079870544075
+    second: Snolax Idle_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snolax Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1326
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c709550f60e6e6840800000000000000
+      internalID: 5219229994249982076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1326
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e96061f736a78b0800000000000000
+      internalID: -5153697426090582454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1326
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88139523382e215b0800000000000000
+      internalID: -5399003950150504056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1326
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284768dfac391a190800000000000000
+      internalID: -7952912966913461118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1326
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08541c67694fcbda0800000000000000
+      internalID: -5927594082451765888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dfee872287997d0800000000000000
+      internalID: -2911163594665165411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1248
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84785b5fda2320520800000000000000
+      internalID: 2666749652089800520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1248
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39892e12dc4bb8930800000000000000
+      internalID: 4146606675054467219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1248
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc722a1f669db7f0800000000000000
+      internalID: -595154171819033406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1248
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e973f065e280a8080800000000000000
+      internalID: -9184519494963349602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1170
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3d1f2a92d0069d0800000000000000
+      internalID: -2783210097236388947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1170
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b9856592d4b2040800000000000000
+      internalID: 4623874282363591552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1170
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2fdea130a59bed0800000000000000
+      internalID: -2397786357214874895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1170
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c3c76a08cc7df40800000000000000
+      internalID: 5753291901910137862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1170
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667bac859c5860800800000000000000
+      internalID: 578296701988288358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1092
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26a75b3130736070800000000000000
+      internalID: 8098439911693592110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1092
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7b1b09ac3330720800000000000000
+      internalID: 2811147537513297880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1092
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7b600bcb206d510800000000000000
+      internalID: 1573448129242904524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1092
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aefa579d4287af50800000000000000
+      internalID: 6892621024477249190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1092
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da0d96223eab7b40800000000000000
+      internalID: 5439132505399429840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad3197a313bc1e10800000000000000
+      internalID: 2169806017482800557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1014
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2c60b858c3ac90800000000000000
+      internalID: -7159658699346399952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1014
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c317f2694bc69320800000000000000
+      internalID: 2564460553887486914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1014
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfea76a894442d90800000000000000
+      internalID: -7123493288174489635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1014
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd89e212abf78470800000000000000
+      internalID: 8396956703776148946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0040ae7531d911b90800000000000000
+      internalID: -7272859216821746688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 936
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c624559541e16cf80800000000000000
+      internalID: -8086743008150207892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 936
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef1b2ca53b9115d0800000000000000
+      internalID: -3093520814202740761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 936
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8544c606ae5958d0800000000000000
+      internalID: -2857148421418760822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 936
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd164ebfaab5c76d0800000000000000
+      internalID: -2991415262552235555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96b8754e26335b0800000000000000
+      internalID: -5389855596171531869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 858
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64202da59e19ee40800000000000000
+      internalID: 5686109632735487084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 858
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ee81e01d2db6640800000000000000
+      internalID: 5074381200489508432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 858
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef26eadd1d13e7f60800000000000000
+      internalID: 8033913562712662782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 858
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc0621f9c21f8700800000000000000
+      internalID: 544674738478648535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281ff459ae2eb6080800000000000000
+      internalID: -9193004717191466622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 780
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09a2833a46c9be00800000000000000
+      internalID: 1061097209216542990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 780
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03c27b2a4d3d3ce0800000000000000
+      internalID: -1423914518413393142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 780
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2664b648ad73bd300800000000000000
+      internalID: 277877213677438562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 780
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36feca0b99eeb3f0800000000000000
+      internalID: -883011624807500226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fea49f3d26c2f90800000000000000
+      internalID: -6977093060143681665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 702
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857acae32f300e760800000000000000
+      internalID: 7484986919658235736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 702
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b4424694d857120800000000000000
+      internalID: 2410988521878997861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_43
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 702
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49bf586cdd7a75d0800000000000000
+      internalID: -3063998210874820275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 702
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f980190cd2f20530800000000000000
+      internalID: 3819882460822407665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d93a3daebace6810800000000000000
+      internalID: 1760567424647313875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 624
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8e8c176f0066e50800000000000000
+      internalID: 6802125345660659901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 624
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5f215505574ba30800000000000000
+      internalID: 4230134937892877738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_48
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 624
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e795878dee7ca30800000000000000
+      internalID: 4235616588064718449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 624
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df6d12f019e39d60800000000000000
+      internalID: 7895910830701375443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29039a6e8cfadd0800000000000000
+      internalID: -2472536777396546864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 546
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eded170cf23b72aa0800000000000000
+      internalID: -6185778545496564002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 546
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8685227e9594bb0a0800000000000000
+      internalID: -6864812556517484440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_53
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 546
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e9ebffd35135560800000000000000
+      internalID: 7301202776925576850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_54
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 546
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c720f05a13dde80800000000000000
+      internalID: -8152305165479543795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee90bba9169b1b0800000000000000
+      internalID: -5640369741113987472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 468
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c407395835c80d0800000000000000
+      internalID: -3419266183911683062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_57
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 468
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fd8e8789a829cf0800000000000000
+      internalID: -246982642083766491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 468
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a608870ada69f730800000000000000
+      internalID: 4033372425948759719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 468
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801d7a774cd8e830800000000000000
+      internalID: 4100769660276641935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd251bbba50a3f9e0800000000000000
+      internalID: -1588749931975191843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 390
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbac476135a62980800000000000000
+      internalID: -8563976009793360971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 390
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d33cb1c9961920800000000000000
+      internalID: 2960722862407931359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 390
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235d53829a1741ed0800000000000000
+      internalID: -2444203726417308366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_64
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 390
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68004ad7cc5157e30800000000000000
+      internalID: 4500527370652090502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae990620fd7b290800000000000000
+      internalID: -7874580222130394416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_66
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 312
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf97352fac732690800000000000000
+      internalID: -7628116252149964876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 312
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5049a09453b34a000800000000000000
+      internalID: 46226996225283077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_68
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 312
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d647520a1e6d951f0800000000000000
+      internalID: -1055576373098875795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_69
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 312
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da1c9ec540a2e9e0800000000000000
+      internalID: -1593535096456209707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932966d4ef8cbf8e0800000000000000
+      internalID: -1658511043210079687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 234
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e74e6a3788ed56c0800000000000000
+      internalID: -4152907613867194400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_72
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 234
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d850ecc8c343f0800000000000000
+      internalID: -917669116790646936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_73
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 234
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece9b17a57262290800000000000000
+      internalID: -7915596025648517906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_74
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 234
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee3d3544e2692e80800000000000000
+      internalID: -8202916513724940570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c33b17081519b20800000000000000
+      internalID: 3139380027359181926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_76
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 156
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50c8e7363c0c7670800000000000000
+      internalID: 8537712420593385563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_77
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 156
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fb88cb8eab00ae0800000000000000
+      internalID: -1585061560076157096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_78
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 156
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb062765d4e3f810800000000000000
+      internalID: 1798032281460673510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_79
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 156
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca90d39f3736c460800000000000000
+      internalID: 7261552195383892679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd6396c6d38ca60800000000000000
+      internalID: 7694467499193458529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a71051948d886f0800000000000000
+      internalID: -682057535149999590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 78
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79048d6ca53ff97a0800000000000000
+      internalID: -6368103776869924713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_83
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 78
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd49cb529e9ac50800000000000000
+      internalID: 6677124270840405392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_84
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 78
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684f11b65ad8fde0800000000000000
+      internalID: -1299048426622728086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bde761c3f11ef00800000000000000
+      internalID: 1144230123264727851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snolax Idle_86
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc87afbfe554ce250800000000000000
+      internalID: 5975227079870544075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

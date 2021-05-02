@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: bc91746d2621f1e4a8b59739501aa660
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1527682344423790615
+    second: Pikachu Attack_0
+  - first:
+      213: 3391625494797904180
+    second: Pikachu Attack_1
+  - first:
+      213: 8165168171772123039
+    second: Pikachu Attack_2
+  - first:
+      213: 7838122831862316868
+    second: Pikachu Attack_3
+  - first:
+      213: 2767958748160529783
+    second: Pikachu Attack_4
+  - first:
+      213: -6443929177886862173
+    second: Pikachu Attack_5
+  - first:
+      213: -4526429367793278157
+    second: Pikachu Attack_6
+  - first:
+      213: 2499815881151807995
+    second: Pikachu Attack_7
+  - first:
+      213: 3175798961495203596
+    second: Pikachu Attack_8
+  - first:
+      213: 7782422655693004505
+    second: Pikachu Attack_9
+  - first:
+      213: 6677125943510531166
+    second: Pikachu Attack_10
+  - first:
+      213: -6288710581477884998
+    second: Pikachu Attack_11
+  - first:
+      213: -2962677462858334126
+    second: Pikachu Attack_12
+  - first:
+      213: -4829675561060565488
+    second: Pikachu Attack_13
+  - first:
+      213: 5138258731653244478
+    second: Pikachu Attack_14
+  - first:
+      213: -2323451191113943213
+    second: Pikachu Attack_15
+  - first:
+      213: -4295852025553142810
+    second: Pikachu Attack_16
+  - first:
+      213: 277796952550778520
+    second: Pikachu Attack_17
+  - first:
+      213: 5022652268948574115
+    second: Pikachu Attack_18
+  - first:
+      213: 806764574725202408
+    second: Pikachu Attack_19
+  - first:
+      213: 8234909769761199724
+    second: Pikachu Attack_20
+  - first:
+      213: 243280274981816499
+    second: Pikachu Attack_21
+  - first:
+      213: 1324142905761997290
+    second: Pikachu Attack_22
+  - first:
+      213: 3484029924982779680
+    second: Pikachu Attack_23
+  - first:
+      213: -4620725087221279267
+    second: Pikachu Attack_24
+  - first:
+      213: -1604983516898168856
+    second: Pikachu Attack_25
+  - first:
+      213: 7320508952089688044
+    second: Pikachu Attack_26
+  - first:
+      213: -3625488981061558625
+    second: Pikachu Attack_27
+  - first:
+      213: 5666723942813912352
+    second: Pikachu Attack_28
+  - first:
+      213: -4525192200772573946
+    second: Pikachu Attack_29
+  - first:
+      213: 3987582776893157420
+    second: Pikachu Attack_30
+  - first:
+      213: -6081904372460330930
+    second: Pikachu Attack_31
+  - first:
+      213: -6177713487367730728
+    second: Pikachu Attack_32
+  - first:
+      213: -9017009555540524745
+    second: Pikachu Attack_33
+  - first:
+      213: -2759534844054373387
+    second: Pikachu Attack_34
+  - first:
+      213: -8006305907216515829
+    second: Pikachu Attack_35
+  - first:
+      213: 8814129054302302121
+    second: Pikachu Attack_36
+  - first:
+      213: 4136646626781154218
+    second: Pikachu Attack_37
+  - first:
+      213: 2234225170025455
+    second: Pikachu Attack_38
+  - first:
+      213: 3012438139040171172
+    second: Pikachu Attack_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pikachu Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718140d8ffa633510800000000000000
+      internalID: 1527682344423790615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 658
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439669cfa69711f20800000000000000
+      internalID: 3391625494797904180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 658
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f979dc9f031805170800000000000000
+      internalID: 8165168171772123039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 658
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f380bff2b96cc60800000000000000
+      internalID: 7838122831862316868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 658
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7751b01f0d3c96620800000000000000
+      internalID: 2767958748160529783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4574add809296a0800000000000000
+      internalID: -6443929177886862173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 564
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33329c7d874ee21c0800000000000000
+      internalID: -4526429367793278157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 564
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf10fef9c4121b220800000000000000
+      internalID: 2499815881151807995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 564
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd9f15454b21c20800000000000000
+      internalID: 3175798961495203596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 564
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de988c1c28b00c60800000000000000
+      internalID: 7782422655693004505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c7d7f2baae9ac50800000000000000
+      internalID: 6677125943510531166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 470
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb35cf8b030ab8a0800000000000000
+      internalID: -6288710581477884998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 470
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25006426b8472e6d0800000000000000
+      internalID: -2962677462858334126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 470
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e799a7aab89fcb0800000000000000
+      internalID: -4829675561060565488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 470
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ad30c713ce4740800000000000000
+      internalID: 5138258731653244478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357f1bca37171cfd0800000000000000
+      internalID: -2323451191113943213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 376
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb3349d7511264c0800000000000000
+      internalID: -4295852025553142810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 376
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a9744bdeead300800000000000000
+      internalID: 277796952550778520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 376
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af4df0a0ab04b540800000000000000
+      internalID: 5022652268948574115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 376
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e16dd53b14323b00800000000000000
+      internalID: 806764574725202408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6692002ec6484270800000000000000
+      internalID: 8234909769761199724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 282
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b886230f1e406300800000000000000
+      internalID: 243280274981816499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 282
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae12cc905fc406210800000000000000
+      internalID: 1324142905761997290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 282
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fed61f1c2c95030800000000000000
+      internalID: 3484029924982779680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_24
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 282
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5907bc303efdfb0800000000000000
+      internalID: -4620725087221279267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef6de4bef3f9b9e0800000000000000
+      internalID: -1604983516898168856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 188
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77f503b1ca79560800000000000000
+      internalID: 7320508952089688044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 188
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e9bbafafcafadc0800000000000000
+      internalID: -3625488981061558625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_28
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 188
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dcf93076f34ae40800000000000000
+      internalID: 5666723942813912352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_29
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 188
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605259c3ba94331c0800000000000000
+      internalID: -4525192200772573946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20be21986db65730800000000000000
+      internalID: 3987582776893157420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 94
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e406b91523cb89ba0800000000000000
+      internalID: -6081904372460330930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 94
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d98e4d605a544aa0800000000000000
+      internalID: -6177713487367730728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 94
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73144b955952dd280800000000000000
+      internalID: -9017009555540524745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_34
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 94
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb73d21ea924b9d0800000000000000
+      internalID: -2759534844054373387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d7f355233e3e090800000000000000
+      internalID: -8006305907216515829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_36
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af6326fca3125a70800000000000000
+      internalID: 8814129054302302121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabcb9ea032586930800000000000000
+      internalID: 4136646626781154218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb8b951400f70000800000000000000
+      internalID: 2234225170025455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu Attack_39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a40451e6845ec920800000000000000
+      internalID: 3012438139040171172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 4b8fdea5c1dc3924ab82edcabea50bad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4903835869726092882
+    second: BlueFlame_0
+  - first:
+      213: -8004385379191414521
+    second: BlueFlame_1
+  - first:
+      213: 1282486533703250242
+    second: BlueFlame_2
+  - first:
+      213: 4931497674853892342
+    second: BlueFlame_3
+  - first:
+      213: -7340379090554408871
+    second: BlueFlame_4
+  - first:
+      213: 3170497811950951239
+    second: BlueFlame_5
+  - first:
+      213: -3964818147717426708
+    second: BlueFlame_6
+  - first:
+      213: -3715035947863560803
+    second: BlueFlame_7
+  - first:
+      213: -505674355910708341
+    second: BlueFlame_8
+  - first:
+      213: 1498823181112434131
+    second: BlueFlame_9
+  - first:
+      213: 2868953775936937997
+    second: BlueFlame_10
+  - first:
+      213: 5590572616801424850
+    second: BlueFlame_11
+  - first:
+      213: -6946158480456058036
+    second: BlueFlame_12
+  - first:
+      213: 820521238329122580
+    second: BlueFlame_13
+  - first:
+      213: 2666718427033999013
+    second: BlueFlame_14
+  - first:
+      213: -4217514847155047944
+    second: BlueFlame_15
+  - first:
+      213: 1887672794299724139
+    second: BlueFlame_16
+  - first:
+      213: -7505387614963534159
+    second: BlueFlame_17
+  - first:
+      213: -665595020948131438
+    second: BlueFlame_18
+  - first:
+      213: 3603447367081887597
+    second: BlueFlame_19
+  - first:
+      213: 813109686453946440
+    second: BlueFlame_20
+  - first:
+      213: 8900068468332685616
+    second: BlueFlame_21
+  - first:
+      213: 5618988300121324340
+    second: BlueFlame_22
+  - first:
+      213: -7190025121435115703
+    second: BlueFlame_23
+  - first:
+      213: 6823405311405602042
+    second: BlueFlame_24
+  - first:
+      213: -2886842196990090489
+    second: BlueFlame_25
+  - first:
+      213: 7138369786252087622
+    second: BlueFlame_26
+  - first:
+      213: -3803809800269280617
+    second: BlueFlame_27
+  - first:
+      213: 3613943775483576575
+    second: BlueFlame_28
+  - first:
+      213: 1571564355262733885
+    second: BlueFlame_29
+  - first:
+      213: -1233368004047154954
+    second: BlueFlame_30
+  - first:
+      213: 2954978934565807471
+    second: BlueFlame_31
+  - first:
+      213: 1142542758874945978
+    second: BlueFlame_32
+  - first:
+      213: -5469860059995986799
+    second: BlueFlame_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueFlame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea15824124312fbb0800000000000000
+      internalID: -4903835869726092882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3840
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70127fb18e5bae090800000000000000
+      internalID: -8004385379191414521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3840
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ba9e15be4cc110800000000000000
+      internalID: 1282486533703250242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3840
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c450d103307440800000000000000
+      internalID: 4931497674853892342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3840
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950bcceab1cb12a90800000000000000
+      internalID: -7340379090554408871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b5d7246fedffb20800000000000000
+      internalID: 3170497811950951239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3200
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d742b6e22af8c0800000000000000
+      internalID: -3964818147717426708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3200
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d29cf0d7a817cc0800000000000000
+      internalID: -3715035947863560803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_8
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3200
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83faeb3adb7bf8f0800000000000000
+      internalID: -505674355910708341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_9
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3200
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddd35bfdb3ecc410800000000000000
+      internalID: 1498823181112434131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00acb3424290d720800000000000000
+      internalID: 2868953775936937997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2560
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d59973cc24b59d40800000000000000
+      internalID: 5590572616801424850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2560
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b79d21aa94a9f90800000000000000
+      internalID: -6946158480456058036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2560
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f554d08b3136b00800000000000000
+      internalID: 820521238329122580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_14
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2560
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6995fc746120520800000000000000
+      internalID: 2666718427033999013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1336487906875c0800000000000000
+      internalID: -4217514847155047944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1920
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b617764b76c523a10800000000000000
+      internalID: 1887672794299724139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1920
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b67b7cbab187d790800000000000000
+      internalID: -7505387614963534159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_18
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1920
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2913e1cdad453c6f0800000000000000
+      internalID: -665595020948131438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_19
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1920
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d678bb9d944020230800000000000000
+      internalID: 3603447367081887597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8484488a3feb84b00800000000000000
+      internalID: 813109686453946440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1280
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ef9b0e15638b70800000000000000
+      internalID: 8900068468332685616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1280
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bbec99618aafd40800000000000000
+      internalID: 5618988300121324340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_23
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1280
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f99b61f36e73c90800000000000000
+      internalID: -7190025121435115703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_24
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1280
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af438d09afa91be50800000000000000
+      internalID: 6823405311405602042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7032cc52150efe7d0800000000000000
+      internalID: -2886842196990090489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 640
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641dfe8ff75901360800000000000000
+      internalID: 7138369786252087622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_27
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 640
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79acccdd327263bc0800000000000000
+      internalID: -3803809800269280617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_28
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 640
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ceef57be472230800000000000000
+      internalID: 3613943775483576575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_29
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 640
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed91164715fc510800000000000000
+      internalID: 1571564355262733885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0df61c55232eee0800000000000000
+      internalID: -1233368004047154954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65ae815fa1320920800000000000000
+      internalID: 2954978934565807471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99f63f5902bdf00800000000000000
+      internalID: 1142542758874945978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFlame_33
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194a7d881472714b0800000000000000
+      internalID: -5469860059995986799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
